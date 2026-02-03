@@ -21,5 +21,3 @@ Loop, Parse, text, `n, `r
 return
 
 Esc::ExitApp
-lipWait, 1
-if (ErrorLevel) { sdasd
